@@ -1,0 +1,24 @@
+syntax = "proto3";
+
+enum JobPriority {
+  LOW = 0;
+  MEDIUM = 1;
+  HIGH = 2;
+}
+
+message Job {
+  string id = 1;
+  JobPriority priority = 2;
+  bytes data = 3;
+}
+
+message JobResult {
+  string id = 1;
+  bool accepted = 2;
+  string message = 3;
+}
+
+service MicroBatching {
+  rpc SubmitJob(Job) returns (JobResult);
+  rpc ShutdownAsync() returns (google.protobuf.Empty);
+}

@@ -1,0 +1,26 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=1a094587_002D1488_002D49ce_002Dab33_002D1021b81a44a7/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Shutdown_ShouldProcessAllRemainingJobs #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::C0F3BA1B-8FAC-4EB4-8746-BCDE5CA0E01A::net7.0::MicroBatchTests.Tests.Shutdown_ShouldProcessAllRemainingJobs&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=2b550b31_002Da684_002D4888_002D8f14_002D63eaa367a46b/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="SubmitJobAsync_ShouldSubmitJobToBatchProcessor" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::C0F3BA1B-8FAC-4EB4-8746-BCDE5CA0E01A::net7.0::MicroBatchTests.MicroBatchingTests&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=8bc268da_002D7c5f_002D48ae_002Dace7_002Dbf94a4c978ba/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Shutdown_ShouldProcessAllRemainingJobs" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::C0F3BA1B-8FAC-4EB4-8746-BCDE5CA0E01A::net7.0::MicroBatchTests.Tests.Shutdown_ShouldProcessAllRemainingJobs&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=95c8d45e_002D43fa_002D47f9_002Da10b_002Df2fa1631db40/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="MicroBatchingTests" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::C0F3BA1B-8FAC-4EB4-8746-BCDE5CA0E01A::net7.0::MicroBatchTests.MicroBatchingTests&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=d36a7591_002D13b8_002D4a41_002D9599_002Dcc24f6216e13/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="SubmitJobAsync_Should_ProcessJobAndReturnJobResuasdfasdflt" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::C0F3BA1B-8FAC-4EB4-8746-BCDE5CA0E01A::net7.0::MicroBatchTests.MicroBatchingTests&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
