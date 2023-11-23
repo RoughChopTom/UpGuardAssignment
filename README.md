@@ -26,6 +26,11 @@ Micro-batching is a technique used in processing pipelines where individual task
 ● If a given batch is smaller than `batchSize` it will still be processed. This ensures individual jobs don't sit idly in the queue longer than they need to.
 
 
+### Out-of-scope
+● Logging
+
+● Instrumentation - it would be nice to push metrics to somewhere such as Datadog
+
 
 ## MicroBatching Class
 
