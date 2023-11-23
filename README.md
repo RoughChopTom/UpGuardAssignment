@@ -25,6 +25,8 @@ Micro-batching is a technique used in processing pipelines where individual task
 
 ● If a given batch is smaller than `batchSize` it will still be processed. This ensures individual jobs don't sit idly in the queue longer than they need to.
 
+● I have not placed any comments in the code on purpose. Hopefully the code reads well and is 'self-documenting'. I just want to acknowledge this as a stylistic decision. They can easily be added if required.
+
 
 ### Out-of-scope
 ● Logging
