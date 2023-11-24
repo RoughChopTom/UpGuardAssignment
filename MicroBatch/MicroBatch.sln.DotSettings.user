@@ -22,5 +22,9 @@
 	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=d36a7591_002D13b8_002D4a41_002D9599_002Dcc24f6216e13/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="SubmitJobAsync_Should_ProcessJobAndReturnJobResuasdfasdflt" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
   &lt;TestAncestor&gt;&#xD;
     &lt;TestId&gt;NUnit3x::C0F3BA1B-8FAC-4EB4-8746-BCDE5CA0E01A::net7.0::MicroBatchTests.MicroBatchingTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::C0F3BA1B-8FAC-4EB4-8746-BCDE5CA0E01A::net7.0::MicroBatchTests.JobTests.Should_ThrowException_If_JobId_IsNullOrWhiteSpace&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::C0F3BA1B-8FAC-4EB4-8746-BCDE5CA0E01A::net7.0::MicroBatchTests.JobTests.Should_SetJobPriorityCorrectly&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::C0F3BA1B-8FAC-4EB4-8746-BCDE5CA0E01A::net7.0::MicroBatchTests.JobTests.Should_ThrowException_If_Data_IsNull&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::C0F3BA1B-8FAC-4EB4-8746-BCDE5CA0E01A::net7.0::MicroBatchTests.JobTests&lt;/TestId&gt;&#xD;
   &lt;/TestAncestor&gt;&#xD;
 &lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
